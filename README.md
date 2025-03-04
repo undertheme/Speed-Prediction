@@ -31,7 +31,7 @@ pip install -r requirements.txt
 The model successfully detects and tracks vehicles, estimating their speed based on movement across frames. A sample output video is included in the repository.
 
 ## Video Demonstration
-[![Demo Video](https://img.icons8.com/fluency/48/play-button-circled.png)](https://drive.google.com/file/d/12U9LzyrNR2eszCAXmL1lyG8QOHCTXmow/view?usp=sharing
+[![Demo Video](https://img.icons8.com/fluency/48/play-button-circled.png)](https://drive.google.com/file/d/12U9LzyrNR2eszCAXmL1lyG8QOHCTXmow/view?usp=sharing)
 
 > Click the play button above to watch the demo.
 
