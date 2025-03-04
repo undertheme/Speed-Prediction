@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+Pipfile
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+logs/
+
+# Data files (Optional: Modify as needed)
+data/
+*.csv
+*.json
+*.db
+*.sqlite3
+
+# Large files
+*.mp4
+*.avi
+*.mkv
+*.h5
+*.pt
+*.onnx
+*.tflite
+*.weights
+
+# Git LFS (If used)
+.gitattributes
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
