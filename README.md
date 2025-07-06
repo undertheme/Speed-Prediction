@@ -41,9 +41,6 @@ Feel free to fork the repository and open pull requests for improvements!
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For queries, reach out via ahmedmoiz962@gmail.com or create an issue in the repository.
-
 ---
 
 ### **SEO Optimized Keywords**
