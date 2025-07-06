@@ -20,8 +20,8 @@ This project utilizes **YOLOv8** for object detection and tracking to estimate t
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/MoizAhmed2517/Speed-Estimation.git
-cd Speed-Estimation
+git clone https://github.com/undertheme/Speed-Prediction.git
+cd Speed-Prediction
 
 # Install dependencies
 pip install -r requirements.txt
