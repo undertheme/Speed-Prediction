@@ -1,7 +1,7 @@
-# Speed Estimation of Vehicles using YOLOv8
+# Speed Estimation of Vehicles using YOLOv12
 
 ## Overview
-This project utilizes **YOLOv8** for object detection and tracking to estimate the speed of vehicles in real-time. The system identifies and tracks vehicles across frames and calculates their speed based on the displacement over time.
+This project utilizes **YOLOv12** for object detection and tracking to estimate the speed of vehicles in real-time. The system identifies and tracks vehicles across frames and calculates their speed based on the displacement over time.
 
 ## Features
 - **Vehicle Detection**: Identifies various types of vehicles (cars, trucks, motorcycles, buses, etc.).
@@ -11,7 +11,7 @@ This project utilizes **YOLOv8** for object detection and tracking to estimate t
 - **Demo Video**: A sample video demonstrating the results is included.
 
 ## Technology Stack
-- **YOLOv8**: Object detection and tracking
+- **YOLOv12**: Object detection and tracking
 - **DeepSORT**: Multi-object tracking
 - **OpenCV**: Video processing
 - **Python**: Main programming language
@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 ---
 
 ### **SEO Optimized Keywords**
-YOLOv8 speed estimation, vehicle tracking, real-time object tracking, AI-based traffic monitoring, deep learning for traffic analysis, computer vision speed detection, real-time vehicle speed tracking.
+YOLOv12 speed estimation, vehicle tracking, real-time object tracking, AI-based traffic monitoring, deep learning for traffic analysis, computer vision speed detection, real-time vehicle speed tracking.
